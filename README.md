@@ -7,7 +7,7 @@
   * A locally installed version of Ruby 2.2.0+, Rubygems, Bundler, and Rails 5+ is required for Heroku deployment
     * Check Ruby version in your CLI `ruby -v`
     * Check Rails version in your CLI`rails -v`
-    * Helpful update links are at the bottom of this README
+    * Helpful links to update Ruby and Rails are at the bottom of this README
 
 ## Assumed before deploying
 - `rails new app_name --database=postgresql`
