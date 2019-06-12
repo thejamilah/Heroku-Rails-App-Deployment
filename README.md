@@ -69,4 +69,4 @@
 ### Helpful Links
 - [Heroku Dev Center](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 - [Ruby Update](https://www.ruby-lang.org/en/downloads/)
-- [Rails Update](https://medium.com/@wintermeyer/rails-5-2-and-ruby-2-5-install-how-to-bc287f3dacef)
+- [Rails Update](https://rubygems.org/gems/rails/versions)
